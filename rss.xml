@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mike Curran Photography]]></title>
-        <description><![CDATA[Mike Curran Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Mike Curran Photography - Professional Wedding Photographer]]></title>
+        <description><![CDATA[Mike Curran Photography - Professional Wedding Photographer]]></description>
+        <link>https://thegrid.ai/mike-curran-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 13:45:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 13:54:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mike-curran-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15fa2aea-06b9-48d6-83f2-305798755e08.jpg">]]></description>
+            <link>https://thegrid.ai/mike-curran-photography/46c0bc64-f068-4b49-9369-f4de60bfcb90/index.html</link>
+            <guid isPermaLink="false">46c0bc64-f068-4b49-9369-f4de60bfcb90</guid>
+            <pubDate>Tue, 23 Feb 2016 13:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mike Curran Photography]]></title>
             <description><![CDATA[<article><h1>Mike Curran Photography</h1><p>Mike Curran Photography - Professional Wedding Photographer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26fc527d80a3f067354df18ef144151447491389.png"></article>]]></description>
-            <link>undefinedmike-curran-photography/index.html</link>
+            <link>https://thegrid.ai/mike-curran-photography/mike-curran-photography/index.html</link>
             <guid isPermaLink="false">3cbe66ef-e638-48b1-8326-38d42c2f261d</guid>
             <pubDate>Tue, 23 Feb 2016 13:45:15 GMT</pubDate>
         </item>
