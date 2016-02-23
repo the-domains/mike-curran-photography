@@ -1,6 +1,6 @@
 name: Mike Curran Photography
 favicon: null
-layout_spectrum: 0.4243300773669034
+layout_spectrum: 1
 typography_spectrum: 0.7781913271173835
 title: Mike Curran Photography - Professional Wedding Photographer
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fffffe'
     - '#bfbfbf'
     - '#b47e6c'
-  brandStrength: 0.8559672678820789
-  lightness: 0.11980628338642418
-  saturation: 0.28474079398438334
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.8864953331649303
 purpose: []
